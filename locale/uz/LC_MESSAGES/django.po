@@ -1,0 +1,246 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-09 22:19+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\maktabpro\settings.py:114
+msgid "Uzbek"
+msgstr "O'zbek"
+
+#: .\maktabpro\settings.py:115
+msgid "English"
+msgstr "Inglish"
+
+#: .\templates\Contact.html:24 .\templates\Statistics\Room.html:27
+#: .\templates\index.html:32 .\templates\journal.html:28
+#: .\templates\media.html:25 .\templates\news.html:25
+msgid "Bosh sahifa"
+msgstr "Bosh sahifa"
+
+#: .\templates\Contact.html:26 .\templates\Statistics\Room.html:29
+#: .\templates\index.html:34 .\templates\journal.html:30
+#: .\templates\media.html:27 .\templates\news.html:27
+#, fuzzy
+#| msgid "So'ngi yangiliklar"
+msgid "Yangiliklar"
+msgstr "So'ngi yangiliklar"
+
+#: .\templates\Contact.html:28 .\templates\Statistics\Room.html:31
+#: .\templates\index.html:36 .\templates\journal.html:32
+#: .\templates\media.html:29 .\templates\news.html:29
+msgid "Maktab hayoti"
+msgstr ""
+
+#: .\templates\Contact.html:30 .\templates\Statistics\Room.html:33
+#: .\templates\index.html:38 .\templates\journal.html:34
+#: .\templates\media.html:31 .\templates\news.html:31
+msgid "Jurnal"
+msgstr ""
+
+#: .\templates\Contact.html:32 .\templates\Statistics\Room.html:35
+#: .\templates\index.html:40 .\templates\journal.html:36
+#: .\templates\media.html:33 .\templates\news.html:33
+msgid "Statistika"
+msgstr ""
+
+#: .\templates\Contact.html:34 .\templates\Statistics\Room.html:37
+#: .\templates\index.html:42 .\templates\journal.html:38
+#: .\templates\media.html:35 .\templates\news.html:35
+msgid "Aloqa"
+msgstr ""
+
+#: .\templates\Contact.html:67
+msgid "Manzil: Farg'ona shahar Qashqar ko'chasi 1-uy"
+msgstr ""
+
+#: .\templates\Contact.html:70
+msgid "Jamoat transporti yo`nalishlari"
+msgstr ""
+
+#: .\templates\Contact.html:71
+msgid "Avtobus"
+msgstr ""
+
+#: .\templates\Contact.html:74
+msgid "Telefon"
+msgstr ""
+
+#: .\templates\Contact.html:75
+msgid "Elektron pochta"
+msgstr ""
+
+#: .\templates\Contact.html:80
+msgid "Murojatlarni Yuborish"
+msgstr ""
+
+#: .\templates\Contact.html:84
+msgid "Ismingiz"
+msgstr ""
+
+#: .\templates\Contact.html:87
+msgid "Email"
+msgstr ""
+
+#: .\templates\Contact.html:90
+msgid "Telefon raqamingiz"
+msgstr ""
+
+#: .\templates\Contact.html:93
+msgid "Sarlavha"
+msgstr ""
+
+#: .\templates\Contact.html:96
+msgid "Xabar"
+msgstr ""
+
+#: .\templates\Contact.html:111
+msgid "Yuborish"
+msgstr ""
+
+#: .\templates\Contact.html:148 .\templates\index.html:200
+#: .\templates\media.html:106 .\templates\news.html:142
+msgid "Yuklab oling"
+msgstr ""
+
+#: .\templates\Contact.html:161 .\templates\index.html:213
+#: .\templates\media.html:119 .\templates\news.html:155
+msgid "Aloqa ma'lumotlari"
+msgstr ""
+
+#: .\templates\Contact.html:165 .\templates\index.html:217
+#: .\templates\media.html:123 .\templates\news.html:159
+msgid "Farg'ona shahar Qashqar ko'chasi 1-uy"
+msgstr ""
+
+#: .\templates\Contact.html:170 .\templates\index.html:222
+#: .\templates\media.html:128 .\templates\news.html:164
+msgid "Ishonch telefoni"
+msgstr ""
+
+#: .\templates\Contact.html:173 .\templates\index.html:225
+#: .\templates\media.html:131 .\templates\news.html:167
+msgid "Savol Yo'llash"
+msgstr ""
+
+#: .\templates\Statistics\Room.html:67
+msgid "Hisobot"
+msgstr ""
+
+#: .\templates\Statistics\Room.html:67 .\templates\Statistics\Room.html:95
+#: .\templates\journal.html:79
+msgid "Sinflar"
+msgstr ""
+
+#: .\templates\Statistics\Room.html:79
+msgid "Yuklab olish"
+msgstr ""
+
+#: .\templates\Statistics\Room.html:100
+msgid "O‘quvchilar"
+msgstr ""
+
+#: .\templates\Statistics\Room.html:116
+msgid "Sinf"
+msgstr ""
+
+#: .\templates\Statistics\Room.html:251
+msgid "Davrlar"
+msgstr ""
+
+#: .\templates\Statistics\Room.html:289
+msgid "Hisobot qurish"
+msgstr ""
+
+#: .\templates\Statistics\Room.html:302
+msgid "Sinf rahbari"
+msgstr ""
+
+#: .\templates\Statistics\Room.html:307
+msgid "Sinfning umumiy o‘rtacha balli"
+msgstr ""
+
+#: .\templates\Statistics\Room.html:315
+msgid "Familiya"
+msgstr ""
+
+#: .\templates\Statistics\Room.html:315
+msgid "Ism"
+msgstr ""
+
+#: .\templates\index.html:22
+msgid "FARG'ONA SHAHRIDAGI PREZIDENT MAKTAB WEB SAYTIGA XUSH KELIBSIZ"
+msgstr "FARG'ONA SHAHRIDAGI PREZIDENT MAKTAB WEB SAYTIGA XUSH KELIBSIZ"
+
+#: .\templates\index.html:89 .\templates\news.html:96
+msgid "Login"
+msgstr ""
+
+#: .\templates\index.html:93 .\templates\news.html:100
+msgid "Parol"
+msgstr ""
+
+#: .\templates\index.html:99 .\templates\news.html:106
+msgid "Eslab qolish"
+msgstr ""
+
+#: .\templates\index.html:101 .\templates\news.html:108
+msgid "Kirish"
+msgstr ""
+
+#: .\templates\index.html:109
+#, fuzzy
+#| msgid "So'ngi yangiliklar"
+msgid "So'ngi yangiliklar"
+msgstr "So'ngi yangiliklar"
+
+#: .\templates\index.html:115
+msgid "batafsil"
+msgstr ""
+
+#: .\templates\index.html:155
+msgid "Qo'shimcha ma'lumot"
+msgstr ""
+
+#: .\templates\index.html:161
+msgid "Ovqatlanish vaqtlari"
+msgstr ""
+
+#: .\templates\index.html:162
+msgid "5 mahal ovqatlanish"
+msgstr ""
+
+#: .\templates\index.html:164 .\templates\index.html:175
+#: .\templates\index.html:186
+msgid "Bepul"
+msgstr ""
+
+#: .\templates\index.html:174
+msgid "Maktab formasi"
+msgstr ""
+
+#: .\templates\index.html:184
+msgid "Maktab yotoqxonasi"
+msgstr ""
+
+#: .\templates\journal.html:68
+msgid "Jurnallar"
+msgstr ""
+
+#: .\templates\news.html:76
+msgid "Batafsil"
+msgstr ""

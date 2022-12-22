@@ -1,0 +1,248 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-09 22:19+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\maktabpro\settings.py:114
+msgid "Uzbek"
+msgstr "Uzbek"
+
+#: .\maktabpro\settings.py:115
+msgid "English"
+msgstr "English"
+
+#: .\templates\Contact.html:24 .\templates\Statistics\Room.html:27
+#: .\templates\index.html:32 .\templates\journal.html:28
+#: .\templates\media.html:25 .\templates\news.html:25
+msgid "Bosh sahifa"
+msgstr "Home"
+
+#: .\templates\Contact.html:26 .\templates\Statistics\Room.html:29
+#: .\templates\index.html:34 .\templates\journal.html:30
+#: .\templates\media.html:27 .\templates\news.html:27
+msgid "Yangiliklar"
+msgstr "News"
+
+#: .\templates\Contact.html:28 .\templates\Statistics\Room.html:31
+#: .\templates\index.html:36 .\templates\journal.html:32
+#: .\templates\media.html:29 .\templates\news.html:29
+msgid "Maktab hayoti"
+msgstr "School life"
+
+#: .\templates\Contact.html:30 .\templates\Statistics\Room.html:33
+#: .\templates\index.html:38 .\templates\journal.html:34
+#: .\templates\media.html:31 .\templates\news.html:31
+msgid "Jurnal"
+msgstr "Magazine"
+
+#: .\templates\Contact.html:32 .\templates\Statistics\Room.html:35
+#: .\templates\index.html:40 .\templates\journal.html:36
+#: .\templates\media.html:33 .\templates\news.html:33
+msgid "Statistika"
+msgstr "Statistics"
+
+#: .\templates\Contact.html:34 .\templates\Statistics\Room.html:37
+#: .\templates\index.html:42 .\templates\journal.html:38
+#: .\templates\media.html:35 .\templates\news.html:35
+msgid "Aloqa"
+msgstr "Contact"
+
+#: .\templates\Contact.html:67
+#| msgid "Farg'ona shahar Qashqar ko'chasi 1-uy"
+msgid "Manzil: Farg'ona shahar Qashqar ko'chasi 1-uy"
+msgstr "Fergana city, Kashkar street, 1 house"
+
+#: .\templates\Contact.html:70
+msgid "Jamoat transporti yo`nalishlari"
+msgstr "Public transport routes"
+
+#: .\templates\Contact.html:71
+msgid "Avtobus"
+msgstr "Bus"
+
+#: .\templates\Contact.html:74
+msgid "Telefon"
+msgstr "Phone"
+
+#: .\templates\Contact.html:75
+msgid "Elektron pochta"
+msgstr "Email"
+
+#: .\templates\Contact.html:80
+msgid "Murojatlarni Yuborish"
+msgstr "Submit Appeals"
+
+#: .\templates\Contact.html:84
+msgid "Ismingiz"
+msgstr "Your name"
+
+#: .\templates\Contact.html:87
+msgid "Email"
+msgstr "Email"
+
+#: .\templates\Contact.html:90
+msgid "Telefon raqamingiz"
+msgstr "Your phone number"
+
+#: .\templates\Contact.html:93
+msgid "Sarlavha"
+msgstr "Title"
+
+#: .\templates\Contact.html:96
+msgid "Xabar"
+msgstr "Message"
+
+#: .\templates\Contact.html:111
+msgid "Yuborish"
+msgstr "Dispatch"
+
+#: .\templates\Contact.html:148 .\templates\index.html:200
+#: .\templates\media.html:106 .\templates\news.html:142
+msgid "Yuklab oling"
+msgstr "Download it"
+
+#: .\templates\Contact.html:161 .\templates\index.html:213
+#: .\templates\media.html:119 .\templates\news.html:155
+msgid "Aloqa ma'lumotlari"
+msgstr "Contact information"
+
+#: .\templates\Contact.html:165 .\templates\index.html:217
+#: .\templates\media.html:123 .\templates\news.html:159
+msgid "Farg'ona shahar Qashqar ko'chasi 1-uy"
+msgstr "Fergana city, Kashkar street, 1 house"
+
+#: .\templates\Contact.html:170 .\templates\index.html:222
+#: .\templates\media.html:128 .\templates\news.html:164
+msgid "Ishonch telefoni"
+msgstr "Hotline"
+
+#: .\templates\Contact.html:173 .\templates\index.html:225
+#: .\templates\media.html:131 .\templates\news.html:167
+msgid "Savol Yo'llash"
+msgstr "Send a question"
+
+#: .\templates\Statistics\Room.html:67
+msgid "Hisobot"
+msgstr "Report"
+
+#: .\templates\Statistics\Room.html:67 .\templates\Statistics\Room.html:95
+#: .\templates\journal.html:79
+msgid "Sinflar"
+msgstr "Classes"
+
+#: .\templates\Statistics\Room.html:79
+msgid "Yuklab olish"
+msgstr "Download it"
+
+#: .\templates\Statistics\Room.html:100
+msgid "O‘quvchilar"
+msgstr "Pupils"
+
+#: .\templates\Statistics\Room.html:116
+msgid "Sinf"
+msgstr "Class"
+
+#: .\templates\Statistics\Room.html:251
+msgid "Davrlar"
+msgstr "Periods"
+
+#: .\templates\Statistics\Room.html:289
+msgid "Hisobot qurish"
+msgstr "Create a report"
+
+#: .\templates\Statistics\Room.html:302
+msgid "Sinf rahbari"
+msgstr "Class leader"
+
+#: .\templates\Statistics\Room.html:307
+msgid "Sinfning umumiy o‘rtacha balli"
+msgstr "Class overall grade point average"
+
+#: .\templates\Statistics\Room.html:315
+msgid "Familiya"
+msgstr "Surname"
+
+#: .\templates\Statistics\Room.html:315
+msgid "Ism"
+msgstr "Name"
+
+#: .\templates\index.html:22
+msgid "FARG'ONA SHAHRIDAGI PREZIDENT MAKTAB WEB SAYTIGA XUSH KELIBSIZ"
+msgstr "WELCOME TO THE WEBSITE OF THE PRESIDENT SCHOOL IN FERGANA CITY"
+
+#: .\templates\index.html:89 .\templates\news.html:96
+msgid "Login"
+msgstr "Login"
+
+#: .\templates\index.html:93 .\templates\news.html:100
+msgid "Parol"
+msgstr "Password"
+
+#: .\templates\index.html:99 .\templates\news.html:106
+msgid "Eslab qolish"
+msgstr "Save"
+
+#: .\templates\index.html:101 .\templates\news.html:108
+msgid "Kirish"
+msgstr "Sigin"
+
+#: .\templates\index.html:109
+msgid "So'ngi yangiliklar"
+msgstr "Latest news"
+
+#: .\templates\index.html:115
+msgid "batafsil"
+msgstr "read more"
+
+#: .\templates\index.html:155
+msgid "Qo'shimcha ma'lumot"
+msgstr "Additional Information"
+
+#: .\templates\index.html:161
+msgid "Ovqatlanish vaqtlari"
+msgstr "Meal times"
+
+#: .\templates\index.html:162
+msgid "5 mahal ovqatlanish"
+msgstr "5 meals a day"
+
+#: .\templates\index.html:164 .\templates\index.html:175
+#: .\templates\index.html:186
+msgid "Bepul"
+msgstr "Free"
+
+#: .\templates\index.html:174
+msgid "Maktab formasi"
+msgstr "School uniform"
+
+#: .\templates\index.html:184
+msgid "Maktab yotoqxonasi"
+msgstr "School dormitory"
+
+#: .\templates\journal.html:68
+msgid "Jurnallar"
+msgstr "Magazine"
+
+#: .\templates\news.html:76
+msgid "Batafsil"
+msgstr "READ MORE"
+
+#, fuzzy
+#~| msgid "Maktab hayoti"
+#~ msgid "Yotoqxona"
+#~ msgstr "School dormitory"
